@@ -8,7 +8,7 @@ En este proyecto participan:
 * Alejandro Yáñez: evaluación de stock, codificación y análisis de resultados.
 * Mauricio Urbina: evaluación de stock, codificación y análisis de resultados.
 * Juan Carlos Quiroz, evaluación de estrategias de manejo, codificación, evaluación de desempeño y análisis de resultados.
-* Luis A. Cubillos: Gestor del proyecto, conceptualización, evaluación de estrategias de manejo, codificación, evaluación de desempeño y análisis de resultados. 
+* Luis A. Cubillos: Gestor del proyecto, conceptualización, evaluación de estrategias de manejo, codificación, evaluación de desempeño y análisis de resultados.
 
 ## Nota
 
@@ -16,7 +16,7 @@ Los códigos están escritos en [ADMB](http://www.admb-project.org/) templates (
 
 ### Requerimientos
 
-* Un comilador C++
+* Un compilador C++
 * ADMB-12.0 o superior
 
 ### Clonación
@@ -33,6 +33,3 @@ Los códigos de cada pesquería están alojados en la carpeta "scradmb" (por eje
 * Carpeta "sam": contiene el código ".tpl" y los datos ".dat" del estimador o modelo de evaluación de stock.
 
 * Carpeta "mo" contiene el código ".tpl" y los datos ".dat" que contiene una función que permite activar las simulaciones con el modelo operativo.
-
-
-
