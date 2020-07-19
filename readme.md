@@ -1,6 +1,6 @@
 # ChCrustMSE
 
-Evaluación de Estrategias de Manejo para las pesquerías de crustáceos bentóicos chilenos: a) langostino colorado, b) langostino amarillo, y c) camarón nailon.
+Evaluación de Estrategias de Manejo para las pesquerías de crustáceos bentonicos chilenos: a) langostino colorado, b) langostino amarillo, y c) camarón nailon.
 
 En este proyecto participan:
 
